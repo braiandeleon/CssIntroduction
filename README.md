@@ -16,10 +16,3 @@ as for their color and form ... </p> </body>
        
        
 </html>
-
-body {
-  font-family: Arial, Verdana, sans-serif;}
-h1, h2 {
-  color: #ee3e80;}
-p{
-color: #665544;}

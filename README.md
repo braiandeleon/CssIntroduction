@@ -1,7 +1,9 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title> Introducing CSSN </title>
+       
+<title>Grandma's Heavy Metal Festival Journal</title>
+       
 </head>
        
 <body>

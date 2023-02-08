@@ -5,8 +5,6 @@
 <head>
        
 <title>Introducing CSS</title>
-<link href="css/example.css" type="text/css"
-       rel="stylesheet" />
   </head>
 <body>
 <h1>Ways to add CSS to HTML</h1>

@@ -1,12 +1,11 @@
-
+# Introduction to CSS
 
 <!DOCTYPE html>
 <html>
-       # Introduction to CSS
 <head>
-       
 <title>Introducing CSS</title>
-  </head>
+</head>
+       
 <body>
 <h1>Ways to add CSS to HTML</h1>
 <p>CSS can be added to HTML documents in 3 ways: Inline - by using the style attribute inside HTML elements. Internal - by using a <style> element in the <head> section. External - by using a <link> element to link to an external CSS file.</p> 

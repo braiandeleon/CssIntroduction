@@ -1,8 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-       
-<title>Grandma's Heavy Metal Festival Journal</title>
+#Introduction to CSS
        
 </head>
        

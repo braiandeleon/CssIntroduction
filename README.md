@@ -3,17 +3,22 @@
 <!DOCTYPE html>
 <html>
 <head>
+       
 <title>Introducing CSS</title>
 <link href="css/example.css" type="text/css"
        rel="stylesheet" />
   </head>
 <body>
-<h1>From Garden to Plate</h1>
-<p>A <i>potager</i> is a French term for an
-ornamental vegetable or kitchen garden ... </p> <h2>What to Plant</h2>
+<h1>Ways to add CSS to HTML</h1>
+<p>CSS can be added to HTML documents in 3 ways: Inline - by using the style attribute inside HTML elements. Internal - by using a <style> element in the <head> section. External - by using a <link> element to link to an external CSS file.</p> 
+       
+<h2>What to Plant</h2>
 <p>Plants are chosen as much for their functionality
 as for their color and form ... </p> </body>
+       
+       
 </html>
+
 body {
   font-family: Arial, Verdana, sans-serif;}
 h1, h2 {

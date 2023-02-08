@@ -1,4 +1,4 @@
-# CssIntroduction
+# Introduction to CSS
 
 <!DOCTYPE html>
 <html>
